@@ -1,0 +1,39 @@
+
+img:hover {
+  background-color: red;
+  border-radius: 100px;
+}
+body{
+  background-color:#d1f5d3;
+}
+hr{
+
+border-style: dotted none none;
+border-color: grey;
+border-width: 5px;
+width: 100%;
+
+ }
+
+
+
+   #heading{
+     color: #66BFBF;
+   }
+
+
+
+
+h3{
+  color:#66BFBF;
+
+}
+
+.broccoli{
+  background-color: green;
+}
+#SMILE
+{
+    background-color: blue;
+
+}
